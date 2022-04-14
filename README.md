@@ -18,5 +18,6 @@ I am a full-time student of computer science at the University of Silesia. I am 
 ### I'm going to learn it ♟:
 - Django Rest Framework
 - TypeScript
+- Redux
 
 #### Have a nice day! 😄
